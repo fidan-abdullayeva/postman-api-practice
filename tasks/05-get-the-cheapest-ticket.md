@@ -26,4 +26,4 @@ Tools Used
 - Travelpayouts Aviasales API
 
 ## Screenshot
-![Get the Cheapest Ticket](../get-the-cheapest-ticket.png)
+![Get the Cheapest Ticket](../screenshots/get-the-cheapest-ticket.png)
