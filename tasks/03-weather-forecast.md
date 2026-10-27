@@ -22,4 +22,4 @@ Tools Used
 - AccuWeather API
 
 ## Screenshot
-![Weather Forecast](../current-weather-conditions.png)
+![Weather Forecast](../screenshots/current-weather-conditions.png)
