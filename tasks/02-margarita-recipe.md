@@ -21,4 +21,4 @@ Tools Used
 - API Ninjas Recipe API
 
 ## Screenshot
-![Margarita Recipe] (../margarita-recipe.png)
+![Margarita Recipe](../margarita-recipe.png)
