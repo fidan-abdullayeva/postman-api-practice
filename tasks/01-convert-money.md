@@ -23,4 +23,4 @@ Tools Used
 - Postman
 - Exchange Rates Data API
 ## Screenshot
-![Convert Money API Request and Response](convert-money-screenshot.png)
+![Convert Money API Request and Response](../convert-money-screenshot.png)
