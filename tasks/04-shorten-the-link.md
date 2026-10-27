@@ -31,4 +31,4 @@ Tools Used
 - Bitly API
 
 ## Screenshot
-![Shorten the Link](../shorten-the-link.png)
+![Shorten the Link](../screenshots/shorten-the-link.png)
