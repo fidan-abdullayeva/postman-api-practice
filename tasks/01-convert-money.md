@@ -22,4 +22,5 @@ See the screenshot below for the actual API response.
 Tools Used
 - Postman
 - Exchange Rates Data API
-- Screenshot ![Convert Money API request and response](convert-money-screenshot.png)
+## Screenshot
+![Convert Money API Request and Response](convert-money-screenshot.png)
